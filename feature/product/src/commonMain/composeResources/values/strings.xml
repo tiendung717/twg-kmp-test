@@ -1,0 +1,15 @@
+<resources>
+    <string name="product_back">Back</string>
+    <string name="product_description_title">Product Description:</string>
+    <string name="product_features_title">Features &amp; Benefits:</string>
+    <string name="product_item_number">Item No</string>
+    <string name="product_categories_title">Related Categories:</string>
+    <string name="product_promotions_title">Promotions:</string>
+
+    <string name="product_availability_title">Availability:</string>
+    <string name="product_in_stock">In stock</string>
+    <string name="product_in_stock_count">In stock (%1$d available)</string>
+    <string name="product_out_of_stock">Out of stock</string>
+
+    <string name="error_generic">Something went wrong. Please try again.</string>
+</resources>
