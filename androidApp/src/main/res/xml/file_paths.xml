@@ -1,0 +1,13 @@
+<paths>
+    <cache-path
+        name="shared_images"
+        path="." />
+
+    <files-path
+        name="file"
+        path="." />
+
+    <external-path
+        name="Pictures"
+        path="." />
+</paths>

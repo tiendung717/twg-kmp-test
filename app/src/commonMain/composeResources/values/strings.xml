@@ -1,0 +1,5 @@
+<resources>
+    <string name="no_internet_title">No internet connection</string>
+    <string name="no_internet_message">Please check that you are connected to a network</string>
+    <string name="no_internet_retry">Retry</string>
+</resources>

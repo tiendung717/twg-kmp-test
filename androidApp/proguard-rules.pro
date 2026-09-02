@@ -1,0 +1,8 @@
+# Please add these rules to your existing keep rules in order to suppress warnings.
+# This is generated automatically by the Android Gradle plugin.
+-dontwarn com.google.firebase.perf.network.FirebasePerfUrlConnection
+-dontwarn org.slf4j.impl.StaticLoggerBinder
+
+# Add this rule to keep the SQLite driver bundled with Room.
+-keep class androidx.sqlite.driver.bundled.BundledSQLiteDriver.** { *; }
+-keep class androidx.sqlite.driver.bundled.BundledSQLiteDriver { *; }

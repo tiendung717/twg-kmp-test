@@ -1,0 +1,7 @@
+<resources>
+    <string name="search_placeholder">Search products</string>
+    <string name="search_empty_title">No results</string>
+    <string name="search_empty_message">We couldn't find anything for "%1$s"</string>
+
+    <string name="error_generic">Something went wrong. Please try again.</string>
+</resources>
